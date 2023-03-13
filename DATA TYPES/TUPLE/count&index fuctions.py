@@ -1,0 +1,5 @@
+t1=(10,20,30,1.2,'abc',10)
+x=t1.count(10)
+print(x)
+y=t1.index(30)
+print(y)

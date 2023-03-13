@@ -1,0 +1,9 @@
+s1={10,20,30}
+print(s1)
+s1.add(90)
+s1.add((1,2,3))
+print(s1)
+s1.update((1,2,3))
+s1.update([70,80])
+s1.update("hello")
+print(s1)
